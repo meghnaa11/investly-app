@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import NavbarComponent from './Components/NavbarComponent';
+import NavbarHome from './Components/NavbarHome';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Route, Routes } from "react-router-dom";
 import Home from './Components/Home';
@@ -15,9 +16,11 @@ import InvestmentPage from './Components/InvestmentPage';
 
 function App() {
 
+  const [loggedIn, setLoggedIn] = useState(false);
+
   return (
     <>
-      <NavbarComponent />
+      { loggedIn? <NavbarComponent />: <NavbarHome /> }
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/user/details" element={<Profile />} />
