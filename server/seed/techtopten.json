@@ -1,0 +1,63 @@
+[
+    {
+      "rank": 1,
+      "company_name": "Nvidia",
+      "ticker": "NVDA",
+      "market_cap_usd": "3.65 trillion"
+    },
+    {
+      "rank": 2,
+      "company_name": "Apple",
+      "ticker": "AAPL",
+      "market_cap_usd": "3.44 trillion"
+    },
+    {
+      "rank": 3,
+      "company_name": "Microsoft",
+      "ticker": "MSFT",
+      "market_cap_usd": "3.12 trillion"
+    },
+    {
+      "rank": 4,
+      "company_name": "Alphabet (Google)",
+      "ticker": "GOOGL",
+      "market_cap_usd": "2.18 trillion"
+    },
+    {
+      "rank": 5,
+      "company_name": "Amazon",
+      "ticker": "AMZN",
+      "market_cap_usd": "2.08 trillion"
+    },
+    {
+      "rank": 6,
+      "company_name": "Saudi Aramco",
+      "ticker": "2222.SR",
+      "market_cap_usd": "1.84 trillion"
+    },
+    {
+      "rank": 7,
+      "company_name": "Meta Platforms (Facebook)",
+      "ticker": "META",
+      "market_cap_usd": "1.02 trillion"
+    },
+    {
+      "rank": 8,
+      "company_name": "Tesla",
+      "ticker": "TSLA",
+      "market_cap_usd": "1.01 trillion"
+    },
+    {
+      "rank": 9,
+      "company_name": "Berkshire Hathaway",
+      "ticker": "BRK.A",
+      "market_cap_usd": "0.95 trillion"
+    },
+    {
+      "rank": 10,
+      "company_name": "Taiwan Semiconductor",
+      "ticker": "TSM",
+      "market_cap_usd": "0.83 trillion"
+    }
+  ]
+  
