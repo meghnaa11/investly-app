@@ -8,7 +8,7 @@ import { Google } from 'react-bootstrap-icons';
 
 // import './Login.css'; // Add custom CSS if needed
 
-export default function LoginPage() {
+export default function Login() {
 
     const [email, setEmail] = useState("")
     const [password, setPassword] = useState("")

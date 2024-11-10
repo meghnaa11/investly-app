@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import { Google } from 'react-bootstrap-icons';
 // import './Login.css'; // Add custom CSS if needed
 
-export default function RegisterPage() {
+export default function Register() {
 
     const [email, setEmail] = useState("")
     const [password, setPassword] = useState("")
