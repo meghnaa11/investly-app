@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Navbar from './Components/Navbar';
+import NavbarComponent from './Components/NavbarComponent';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Route, Routes } from "react-router-dom";
 import Home from './Components/Home';
@@ -9,13 +9,15 @@ import Register from './Components/Register';
 import Discover from './Components/Discover';
 import StockPage from './Components/StockPage';
 import Profile from './Components/Profile';
+import InvestmentPage from './Components/InvestmentPage';
+
 
 
 function App() {
 
   return (
     <>
-      <Navbar />
+      <NavbarComponent />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/user/details" element={<Profile />} />

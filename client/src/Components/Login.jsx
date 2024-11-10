@@ -4,6 +4,8 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
+import { Google } from 'react-bootstrap-icons';
+
 // import './Login.css'; // Add custom CSS if needed
 
 export default function LoginPage() {
@@ -25,8 +27,8 @@ export default function LoginPage() {
                 {/* Right Section */}
                 <Col md={6} className="d-flex align-items-center justify-content-center bg-dark text-white">
                     <div className="w-75">
-                        <Button variant="outline-light" className="w-100 mb-3 d-flex align-items-center justify-content-center">
-                            <img src="google-icon.png" alt="Google Icon" className="me-2" />
+                    <Button variant="outline-light" className="w-100 mb-3 d-flex align-items-center justify-content-center">
+                            <Google className="me-2" />
                             Google
                         </Button>
                         <div className="text-center mb-3">or</div>
