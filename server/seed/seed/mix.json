@@ -1,0 +1,63 @@
+[
+    {
+      "rank": 1,
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "market_cap_usd": "3.44 trillion"
+    },
+    {
+      "rank": 2,
+      "name": "Bitcoin",
+      "ticker": "BTC",
+      "market_cap_usd": "786 billion"
+    },
+    {
+      "rank": 3,
+      "name": "Microsoft Corp.",
+      "ticker": "MSFT",
+      "market_cap_usd": "3.12 trillion"
+    },
+    {
+      "rank": 4,
+      "name": "Ethereum",
+      "ticker": "ETH",
+      "market_cap_usd": "350 billion"
+    },
+    {
+      "rank": 5,
+      "name": "Amazon Inc.",
+      "ticker": "AMZN",
+      "market_cap_usd": "2.08 trillion"
+    },
+    {
+      "rank": 6,
+      "name": "Binance Coin",
+      "ticker": "BNB",
+      "market_cap_usd": "42 billion"
+    },
+    {
+      "rank": 7,
+      "name": "Alphabet (Google)",
+      "ticker": "GOOGL",
+      "market_cap_usd": "2.18 trillion"
+    },
+    {
+      "rank": 8,
+      "name": "Solana",
+      "ticker": "SOL",
+      "market_cap_usd": "12 billion"
+    },
+    {
+      "rank": 9,
+      "name": "Meta Platforms (Facebook)",
+      "ticker": "META",
+      "market_cap_usd": "1.02 trillion"
+    },
+    {
+      "rank": 10,
+      "name": "Ripple",
+      "ticker": "XRP",
+      "market_cap_usd": "37 billion"
+    }
+  ]
+  

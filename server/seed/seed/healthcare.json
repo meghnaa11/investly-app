@@ -1,0 +1,63 @@
+[
+    {
+      "rank": 1,
+      "company_name": "Eli Lilly and Company",
+      "ticker": "LLY",
+      "market_cap_usd": "798.82 billion"
+    },
+    {
+      "rank": 2,
+      "company_name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "market_cap_usd": "545.92 billion"
+    },
+    {
+      "rank": 3,
+      "company_name": "Novo Nordisk A/S",
+      "ticker": "NVO",
+      "market_cap_usd": "506.94 billion"
+    },
+    {
+      "rank": 4,
+      "company_name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "market_cap_usd": "385.86 billion"
+    },
+    {
+      "rank": 5,
+      "company_name": "AbbVie Inc.",
+      "ticker": "ABBV",
+      "market_cap_usd": "343.18 billion"
+    },
+    {
+      "rank": 6,
+      "company_name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "market_cap_usd": "318.75 billion"
+    },
+    {
+      "rank": 7,
+      "company_name": "Thermo Fisher Scientific Inc.",
+      "ticker": "TMO",
+      "market_cap_usd": "204.45 billion"
+    },
+    {
+      "rank": 8,
+      "company_name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "market_cap_usd": "178.02 billion"
+    },
+    {
+      "rank": 9,
+      "company_name": "Danaher Corporation",
+      "ticker": "DHR",
+      "market_cap_usd": "177.21 billion"
+    },
+    {
+      "rank": 10,
+      "company_name": "Amgen Inc.",
+      "ticker": "AMGN",
+      "market_cap_usd": "166.77 billion"
+    }
+  ]
+  
