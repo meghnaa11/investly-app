@@ -1,0 +1,62 @@
+[
+    {
+        "rank": 1,
+        "company_name": "Bitcoin",
+        "ticker": "BTC",
+        "market_cap_usd": "1.1 trillion"
+    },
+    {
+        "rank": 2,
+        "company_name": "Ethereum",
+        "ticker": "ETH",
+        "market_cap_usd": "470 billion"
+    },
+    {
+        "rank": 3,
+        "company_name": "Tether",
+        "ticker": "USDT",
+        "market_cap_usd": "83 billion"
+    },
+    {
+        "rank": 4,
+        "company_name": "BNB",
+        "ticker": "BNB",
+        "market_cap_usd": "57 billion"
+    },
+    {
+        "rank": 5,
+        "company_name": "USD Coin",
+        "ticker": "USDC",
+        "market_cap_usd": "53 billion"
+    },
+    {
+        "rank": 6,
+        "company_name": "XRP",
+        "ticker": "XRP",
+        "market_cap_usd": "27 billion"
+    },
+    {
+        "rank": 7,
+        "company_name": "Cardano",
+        "ticker": "ADA",
+        "market_cap_usd": "14 billion"
+    },
+    {
+        "rank": 8,
+        "company_name": "Dogecoin",
+        "ticker": "DOGE",
+        "market_cap_usd": "10 billion"
+    },
+    {
+        "rank": 9,
+        "company_name": "Solana",
+        "ticker": "SOL",
+        "market_cap_usd": "12 billion"
+    },
+    {
+        "rank": 10,
+        "company_name": "Polkadot",
+        "ticker": "DOT",
+        "market_cap_usd": "8 billion"
+    }
+]
