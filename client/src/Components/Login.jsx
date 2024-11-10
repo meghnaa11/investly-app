@@ -14,7 +14,6 @@ export default function LoginPage() {
     return (
         <Container fluid className="d-flex vh-100">
             <Row className="flex-grow-1 w-100">
-                {/* Left Section */}
                 <Col md={6} className="d-flex align-items-center justify-content-center bg-primary text-white">
                     <div>
                         <h1 className="display-1">Welcome</h1>
@@ -22,7 +21,6 @@ export default function LoginPage() {
                     </div>
                 </Col>
 
-                {/* Right Section */}
                 <Col md={6} className="d-flex align-items-center justify-content-center bg-dark text-white">
                     <div className="w-75">
                         <Button variant="outline-light" className="w-100 mb-3 d-flex align-items-center justify-content-center">
@@ -35,7 +33,6 @@ export default function LoginPage() {
                                 <Form.Label>Email:</Form.Label>
                                 <Form.Control type="email" placeholder="Enter email" />
                             </Form.Group>
-
                             <Form.Group controlId="formPassword" className="mb-3">
                                 <Form.Label>Password:</Form.Label>
                                 <Form.Control type="password" placeholder="Password" />
