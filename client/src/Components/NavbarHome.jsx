@@ -3,21 +3,38 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Button from 'react-bootstrap/Button';
+import { LinkContainer } from 'react-router-bootstrap';
 
 export default function NavbarHome() {
   return (
-    <Navbar expand="lg" style={{ backgroundColor: '#ffffff' }} className="py-3">
+    <Navbar expand="lg" bg="white" className="py-3">
       <Container>
-        <Navbar.Brand href="#home" className="fs-3 fw-bold" style={{ color: '#1c1f71' }}>Investly</Navbar.Brand>
+        <LinkContainer to="/">
+          <Navbar.Brand className="fs-3 fw-bold text-primary" style={{ color: '#1c1f71' }}>
+            Investly
+          </Navbar.Brand>
+        </LinkContainer>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav" className="justify-content-between">
           <Nav className="me-auto">
-            <Nav.Link href="#home" style={{ color: '#1c1f71' }} className="px-3">Home</Nav.Link>
-            <Nav.Link href="#discover" style={{ color: '#1c1f71' }} className="px-3">Discover</Nav.Link>
+            <LinkContainer to="/">
+              <Nav.Link className="px-3 text-primary">Home</Nav.Link>
+            </LinkContainer>
+            <LinkContainer to="/discover">
+              <Nav.Link className="px-3 text-primary">Discover</Nav.Link>
+            </LinkContainer>
           </Nav>
           <div className="d-flex align-items-center">
-            <Button variant="outline-primary" className="me-2" style={{ color: '#1c1f71', borderColor: '#1c1f71' }}>Log In</Button>
-            <Button style={{ backgroundColor: '#2d8cf0', border: 'none' }} className="fw-bold text-white">Get Started</Button>
+            <LinkContainer to="/login">
+              <Button variant="outline-primary" className="me-2 fw-bold" style={{ borderColor: '#1c1f71', color: '#1c1f71' }}>
+                Log In
+              </Button>
+            </LinkContainer>
+            <LinkContainer to="/register">
+              <Button className="fw-bold text-white" style={{ backgroundColor: '#2d8cf0', border: 'none' }}>
+                Get Started
+              </Button>
+            </LinkContainer>
           </div>
         </Navbar.Collapse>
       </Container>
