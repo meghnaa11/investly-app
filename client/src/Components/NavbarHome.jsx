@@ -25,16 +25,12 @@ export default function NavbarHome() {
             </LinkContainer>
           </Nav>
           <div className="d-flex align-items-center">
-            <LinkContainer to="/login">
-              <Button variant="outline-primary" className="me-2 fw-bold" style={{ borderColor: '#1c1f71', color: '#1c1f71' }}>
-                Log In
-              </Button>
-            </LinkContainer>
-            <LinkContainer to="/register">
-              <Button className="fw-bold text-white" style={{ backgroundColor: '#2d8cf0', border: 'none' }}>
-                Get Started
-              </Button>
-            </LinkContainer>
+            <Button variant="outline-primary" className="me-2 fw-bold" style={{ borderColor: '#1c1f71', color: '#1c1f71' }}>
+              Log In
+            </Button>
+            <Button className="fw-bold text-white" style={{ backgroundColor: '#2d8cf0', border: 'none' }}>
+              Get Started
+            </Button>
           </div>
         </Navbar.Collapse>
       </Container>

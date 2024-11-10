@@ -1,0 +1,62 @@
+[
+    {
+        "rank": 1,
+        "company_name": "Archer-Daniels-Midland Company",
+        "ticker": "ADM",
+        "market_cap_usd": "47.19 billion"
+    },
+    {
+        "rank": 2,
+        "company_name": "Corteva, Inc.",
+        "ticker": "CTVA",
+        "market_cap_usd": "38.65 billion"
+    },
+    {
+        "rank": 3,
+        "company_name": "Nutrien Ltd.",
+        "ticker": "NTR",
+        "market_cap_usd": "32.54 billion"
+    },
+    {
+        "rank": 4,
+        "company_name": "Bunge Limited",
+        "ticker": "BG",
+        "market_cap_usd": "14.99 billion"
+    },
+    {
+        "rank": 5,
+        "company_name": "Mosaic Company",
+        "ticker": "MOS",
+        "market_cap_usd": "11.22 billion"
+    },
+    {
+        "rank": 6,
+        "company_name": "Deere & Company",
+        "ticker": "DE",
+        "market_cap_usd": "122.18 billion"
+    },
+    {
+        "rank": 7,
+        "company_name": "Syngenta Group",
+        "ticker": "SYT",
+        "market_cap_usd": "unlisted"
+    },
+    {
+        "rank": 8,
+        "company_name": "Yara International ASA",
+        "ticker": "YAR",
+        "market_cap_usd": "9.41 billion"
+    },
+    {
+        "rank": 9,
+        "company_name": "CF Industries Holdings, Inc.",
+        "ticker": "CF",
+        "market_cap_usd": "15.36 billion"
+    },
+    {
+        "rank": 10,
+        "company_name": "Kubota Corporation",
+        "ticker": "KUBTY",
+        "market_cap_usd": "19.11 billion"
+    }
+]

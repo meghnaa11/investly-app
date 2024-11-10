@@ -1,0 +1,63 @@
+[
+    {
+      "rank": 1,
+      "company_name": "Berkshire Hathaway",
+      "ticker": "BRK.A",
+      "market_cap_usd": "594.43 billion"
+    },
+    {
+      "rank": 2,
+      "company_name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "market_cap_usd": "471.4 billion"
+    },
+    {
+      "rank": 3,
+      "company_name": "Visa Inc.",
+      "ticker": "V",
+      "market_cap_usd": "452.89 billion"
+    },
+    {
+      "rank": 4,
+      "company_name": "Mastercard Incorporated",
+      "ticker": "MA",
+      "market_cap_usd": "355.82 billion"
+    },
+    {
+      "rank": 5,
+      "company_name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "market_cap_usd": "330.91 billion"
+    },
+    {
+      "rank": 6,
+      "company_name": "Wells Fargo & Company",
+      "ticker": "WFC",
+      "market_cap_usd": "223.99 billion"
+    },
+    {
+      "rank": 7,
+      "company_name": "American Express Company",
+      "ticker": "AXP",
+      "market_cap_usd": "122.13 billion"
+    },
+    {
+      "rank": 8,
+      "company_name": "Morgan Stanley",
+      "ticker": "MS",
+      "market_cap_usd": "122.13 billion"
+    },
+    {
+      "rank": 9,
+      "company_name": "Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "market_cap_usd": "122.13 billion"
+    },
+    {
+      "rank": 10,
+      "company_name": "Citigroup Inc.",
+      "ticker": "C",
+      "market_cap_usd": "122.13 billion"
+    }
+  ]
+  
